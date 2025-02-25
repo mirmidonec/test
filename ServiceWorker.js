@@ -1,4 +1,4 @@
-const cacheName = "WA-Merge Game-2.004";
+const cacheName = "WA-Merge Game-2.005";
 const contentToCache = [
     "Build/dbPython.loader.js",
     "Build/dbPython.framework.js",
