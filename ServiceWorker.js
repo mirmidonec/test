@@ -1,9 +1,9 @@
-const cacheName = "WA-Merge Game-2.003";
+const cacheName = "WA-Merge Game-2.004";
 const contentToCache = [
     "Build/dbPython.loader.js",
-    "Build/e2875847f9473232861702c97c8cb2ec.js.gz",
-    "Build/706d8d2d2ca2b50b517287f6009e3c08.data.gz",
-    "Build/1e7e63145b40bb33e4f4cd6d36fcd466.wasm.gz",
+    "Build/dbPython.framework.js",
+    "Build/dbPython.data",
+    "Build/dbPython.wasm",
     "TemplateData/style.css"
 
 ];
